@@ -10,7 +10,6 @@
   </a>
 </p>
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrhamana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
