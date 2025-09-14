@@ -1,18 +1,22 @@
-<h1 align="center">SK</h1>
+<h1 align="center">Hi, I'm Saugat 👋</h1>
 
-<h3 align="center">i like to code </h3>
+<h3 align="center">I build things</h3>
+
+---
 
 <p align="center">
-  <a href="https://portfolio-react-kappa-gilt.vercel.app/">
-    <img src="https://img.shields.io/badge/My%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="My Site" />
+  <a href="https://portfolio-react-kappa-gilt.vercel.app/projects">
+    <img src="https://img.shields.io/badge/My%20Site-black?style=for-the-badge&logo=vercel&logoColor=red" alt="My Site" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mrhamana&theme=shadow_blue&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamana&theme=shadow_blue&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhamana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mrhamana&theme=dark&hide_border=false" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamana&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
